@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '6787'
     url: http://www.gutenberg.org/2009/agents/6787
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20082#Warrior-GapA-Story-of-the-Sioux-Outbreak-of-68.
 gutenberg_bookshelf: Native America
 gutenberg_issued: '2006-12-10'
 gutenberg_type: Text
